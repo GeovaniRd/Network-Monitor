@@ -3,7 +3,7 @@ Description:
 
 This script allows users to obtain information about their network, such as IP address, download/upload speeds, ping, jitter, and more. Once executed, users can opt to continue running the script indefinitely, recording the network details at set intervals and saving them to a text file.
 
-##Libraries & Packages Used:
+## Libraries & Packages Used:
 * ***'speedtest-cli':*** Enables us to interface with the Speedtest CLI to fetch network metrics.
 * ***'datetime':*** Used for fetching the current date and time.
 * ***'time':*** Used for adding delays in script execution.
